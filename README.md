@@ -5,7 +5,7 @@
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
 <p>Hill climbing is a variant of Generate and test in which feedback from test procedure is used to help the generator decide which direction to move in search space.
-Feedback is provided in terms of heuristic function
+Feedback is provided in terms of heuristic function.
 </p>
 
 
